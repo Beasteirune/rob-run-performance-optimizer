@@ -32,3 +32,13 @@ ROB RUN Performance Optimizer is an independent community project designed to pr
 ---
 
 💙 Thanks for supporting the project!
+
+
+
+- ROB RUN
+- Windows
+- PC Gaming
+- Gaming Community
+- Game Configuration
+- PC Settings
+- Performance Tools
