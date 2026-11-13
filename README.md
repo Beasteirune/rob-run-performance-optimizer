@@ -3,8 +3,8 @@
 A community-made Windows utility for **ROB RUN**, featuring convenient game configuration, PC settings management and performance-related tools.
 
 <p align="center">
-  <a href="https://github.com/Beasteirune/rob-run-performance-optimizer/releases/download/v1.0.0/RobRunOptimizer.zip">
-    <img src="https://img.shields.io/badge/⬇%20DOWNLOAD-v1.0.0-168BFF?style=for-the-badge" alt="Download ROB RUN Optimizer">
+  <a href="https://github.com/Beasteirune/rob-run-performance-optimizer/releases/download/v1.1.0/RobRun-Optimizer-v1.1.0-Windows.zip">
+    <img src="https://img.shields.io/badge/⬇%20DOWNLOAD-v1.1.0-168BFF?style=for-the-badge" alt="Download ROB RUN Optimizer">
   </a>
 </p>
 
@@ -21,7 +21,7 @@ ROB RUN Performance Optimizer is an independent community project designed to pr
 
 ## 📥 Download
 
-**Latest version: v1.0.0**
+**Latest version: v1.1.0**
 
 1. Click the Download button above.
 2. Extract `RobRunOptimizer.zip`.
